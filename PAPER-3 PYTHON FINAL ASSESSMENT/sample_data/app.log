@@ -1,0 +1,8 @@
+2026-11-07 10:30:00 | ERROR | Connection lost
+2026-11-07 10:31:12 | INFO | Reconnected
+this line is garbage
+2026-11-07 11:00:00 | ERROR | Disk almost full | threshold 95%
+2026-13-45 99:00:00 | ERROR | Bad timestamp
+
+2026-11-08 09:15:30 | WARNING | High latency
+2026-11-08 09:20:00 | ERROR | Timeout

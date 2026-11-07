@@ -1,0 +1,5 @@
+student_id,name,subjects,average,grade,rank
+101,Ali,3,85.0,A,1
+102,Sara,2,66.0,C,2
+103,Bilal,1,35.0,F,3
+104,Hina,0,,N/A,

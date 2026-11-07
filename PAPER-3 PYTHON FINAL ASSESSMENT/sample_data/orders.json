@@ -1,0 +1,17 @@
+[
+  {
+    "order_id": "ORD-7161304238F0",
+    "created_at": "2026-11-07T17:10:27+00:00",
+    "items": [
+      {
+        "product_id": "P1",
+        "name": "Pen",
+        "unit_price": "100",
+        "quantity": 2
+      }
+    ],
+    "subtotal": "200.00",
+    "discount_percent": "10",
+    "total": "180.00"
+  }
+]

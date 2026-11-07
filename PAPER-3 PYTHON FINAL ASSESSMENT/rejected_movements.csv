@@ -1,0 +1,6 @@
+row,sku,type,units,reason
+3,P01,OUT,9,insufficient stock
+5,P99,IN,1,unknown SKU
+6,P02,SWAP,1,invalid movement type
+7,P02,IN,0,units must be positive
+8,P02,OUT,-3,units must be positive
